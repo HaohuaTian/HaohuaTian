@@ -95,7 +95,7 @@ I am interested in bridging the gap between **research ideas** and **real-world 
 ### BSc in Computer Science and Technology — Big Data Direction
 
 **Anhui Jianzhu University, China**
-
+- Graduated with **Top 1**
 - Specialized in computer science, big data, programming, algorithms, and data-related technologies
 - Built a solid foundation in computer science and artificial intelligence
 
