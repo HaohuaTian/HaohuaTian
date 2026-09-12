@@ -2,7 +2,7 @@
 
 # Hi, I'm Haohua Tian 👋
 
-### Computer Vision Engineer | 2D & 3D Vision | Vision-Language Models
+### Image Algorithm Engineer | 2D & 3D Vision | Vision-Language Models
 
 </div>
 
